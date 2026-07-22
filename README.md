@@ -1,1 +1,1 @@
-Sharp-MX-3060N-mSATA-Repair.md - This document describes a successful repair of a Sharp MX-3060N multifunction copier that repeatedly rebooted during startup and had previously displayed error code `U2-40`.
+[Sharp-MX-3060N-mSATA-Repair.md](Sharp-MX-3060N-mSATA-Repair.md) - This document describes a successful repair of a Sharp MX-3060N multifunction copier that repeatedly rebooted during startup and had previously displayed error code `U2-40`.
