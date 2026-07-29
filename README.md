@@ -1,1 +1,2 @@
 [Sharp-MX-3060N-mSATA-Repair.md](Sharp-MX-3060N-mSATA-Repair.md) - This document describes a successful repair of a Sharp MX-3060N multifunction copier that repeatedly rebooted during startup and had previously displayed error code `U2-40`.
+[MTU_PMTU_BLACK_HOLE_EN.md](MTU_PMTU_BLACK_HOLE_EN.md) [简体中文](MTU_PMTU_BLACK_HOLE_ZH-CN.md) - Suntek HC-940, HC-950, HC-960 - Mobile Image Upload Failure Caused by an MTU/PMTU Black Hole and possible fix.
